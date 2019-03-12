@@ -1,0 +1,4 @@
+name: ambassador
+summary: Ambassador interface
+version: 1
+repo: https://github.com/juju-solutions/interface-ambassador
